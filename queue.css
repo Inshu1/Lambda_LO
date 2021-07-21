@@ -1,0 +1,33 @@
+.queue{
+    display: inline-flex;
+    margin-left: 10%;
+    height: 50px;
+    background-color: rgb(60, 236, 134);
+    width: 50%;
+    border-radius: 15px;
+    border: 1px solid rgb(60, 236, 134);
+}
+.queue h1{
+    display: inline-block;
+}
+.serial-number{
+    width: 50px;
+    height: 100%;
+    border-radius: 20%;
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+.transaction-no{
+    color: white;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 13%;
+}
+.button{
+    margin-bottom: 0;
+    border-radius: 15px;
+}
+button{
+    height: 100%;
+}
